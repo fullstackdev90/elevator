@@ -1,0 +1,1 @@
+Create script for elevator. No visualization needed. Elevator’s functionality is your idea. Please use OOP principles in your work.
